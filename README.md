@@ -2,9 +2,9 @@
 <br>
 Aula 33 - Introdução ao JavaScript: Sintaxe e Tipagem Fraca
 <br>
-Aula 34 -Introdução ao JavaScript: Estruturas condicionais
+Aula 34 - Introdução ao JavaScript: Estruturas condicionais
 <br>
-Aula 34 - Introdução ao JavaScript: Estruturas de repetição
+Aula 35 - Introdução ao JavaScript: Estruturas de repetição
 <br>
 Aula 36 - ECMAScript x JavaScript
 <br>
@@ -20,22 +20,22 @@ Aula 41 -Introdução ao JavaScript: JSON
 <br>
 Aula 42 - Revisão
 <br>
-Aula 43 - entendo os conceitos de sincronismo e assincronismo
+Aula 43 - Entendendo os conceitos de sincronismo e assincronismo
 <br>
-Aula 44 - Conhecendo Promoises em JavaScript
+Aula 44 - Conhecendo Promises em JavaScript
 <br>
-Aula 45 - Explorando 'assync/await'
+Aula 45 - Explorando 'async/await'
 <br>
-Aula 46 - Tratamento de exceções emm JavaScript
+Aula 46 - Tratamento de exceções em JavaScript
 <br> 
 Aula 47 - Revisão
 <br>
 Aula 48 - Consumindo a API do ViaCEP: Cliente/Servidor e Front-end/Back-end
 <br>
-Aula 49 - Consumindo a Api do ViaCEP: Back-end - entendendo a API 
+Aula 49 - Consumindo a Api do ViaCEP: Back-end - Entendendo a API 
 <br>
 Aula 50 - Consumindo a API do ViaCEP: Front-end - Telas com HTML e CSS
 <br>
-Aula 51 - Consumindo a Api do ViaCEP: Front-end - Explorando a 'assync/await' e 'fetch' 
+Aula 51 - Consumindo a API do ViaCEP: Front-end - Explorando a 'assync/await' e 'fetch' 
 <br>
-Aula 52 - Consumindo a Api do ViaCEP: Front-end - Tratamento de Erros e Debugging
+Aula 52 - Consumindo a API do ViaCEP: Front-end - Tratamento de Erros e Debugging
