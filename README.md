@@ -34,4 +34,8 @@ Aula 48 - Consumindo a API do ViaCEP: Cliente/Servidor e Front-end/Back-end
 <br>
 Aula 49 - Consumindo a Api do ViaCEP: Back-end - entendendo a API 
 <br>
-
+Aula 50 - Consumindo a API do ViaCEP: Front-end - Telas com HTML e CSS
+<br>
+Aula 51 - Consumindo a Api do ViaCEP: Front-end - Explorando a 'assync/await' e 'fetch' 
+<br>
+ad
