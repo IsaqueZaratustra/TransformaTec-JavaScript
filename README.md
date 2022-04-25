@@ -18,3 +18,9 @@ Aula 40 - Introdução ao JavaScript: Criando elementos HTML dinamicamente
 <br>
 Aula 41 -Introdução ao JavaScript: JSON 
 <br>
+Aula 42 - Revisão
+<br>
+Aula 43 - entendo os conceitos de sincronismo e assincronismo
+<br>
+Aula 44 - Conhecendo Promoises em JavaScript
+<br>
