@@ -14,3 +14,7 @@ Aula 38 - Introdução ao JavaScript: Manipulando o DOM
 <br>
 Aula 39 - Introdução ao JavaScript: Criando eventos 
 <br>
+Aula 40 - Introdução ao JavaScript: Criando elementos HTML dinamicamente 
+<br>
+Aula 41 -Introdução ao JavaScript: JSON 
+<br>
