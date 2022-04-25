@@ -16,7 +16,7 @@ Aula 39 - Introdução ao JavaScript: Criando eventos
 <br>
 Aula 40 - Introdução ao JavaScript: Criando elementos HTML dinamicamente 
 <br>
-Aula 41 -Introdução ao JavaScript: JSON 
+Aula 41 - Introdução ao JavaScript: JSON 
 <br>
 Aula 42 - Revisão
 <br>
@@ -32,7 +32,7 @@ Aula 47 - Revisão
 <br>
 Aula 48 - Consumindo a API do ViaCEP: Cliente/Servidor e Front-end/Back-end
 <br>
-Aula 49 - Consumindo a Api do ViaCEP: Back-end - Entendendo a API 
+Aula 49 - Consumindo a API do ViaCEP: Back-end - Entendendo a API 
 <br>
 Aula 50 - Consumindo a API do ViaCEP: Front-end - Telas com HTML e CSS
 <br>
