@@ -30,4 +30,8 @@ Aula 46 - Tratamento de exceções emm JavaScript
 <br> 
 Aula 47 - Revisão
 <br>
+Aula 48 - Consumindo a API do ViaCEP: Cliente/Servidor e Front-end/Back-end
+<br>
+Aula 49 - Consumindo a Api do ViaCEP: Back-end - entendendo a API 
+<br>
 
