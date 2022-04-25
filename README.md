@@ -10,3 +10,7 @@ Aula 36 - ECMAScript x JavaScript
 <br>
 Aula 37 - Revisão
 <br>
+Aula 38 - Introdução ao JavaScript: Manipulando o DOM
+<br>
+Aula 39 - Introdução ao JavaScript: Criando eventos 
+<br>
