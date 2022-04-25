@@ -24,3 +24,10 @@ Aula 43 - entendo os conceitos de sincronismo e assincronismo
 <br>
 Aula 44 - Conhecendo Promoises em JavaScript
 <br>
+Aula 45 - Explorando 'assync/await'
+<br>
+Aula 46 - Tratamento de exceções emm JavaScript
+<br> 
+Aula 47 - Revisão
+<br>
+
