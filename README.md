@@ -6,3 +6,7 @@ Aula 34 -Introdução ao JavaScript: Estruturas condicionais
 <br>
 Aula 34 - Introdução ao JavaScript: Estruturas de repetição
 <br>
+Aula 36 - ECMAScript x JavaScript
+<br>
+Aula 37 - Revisão
+<br>
