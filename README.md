@@ -38,4 +38,4 @@ Aula 50 - Consumindo a API do ViaCEP: Front-end - Telas com HTML e CSS
 <br>
 Aula 51 - Consumindo a Api do ViaCEP: Front-end - Explorando a 'assync/await' e 'fetch' 
 <br>
-ad
+Aula 52 - Consumindo a Api do ViaCEP: Front-end - Tratamento de Erros e Debugging
