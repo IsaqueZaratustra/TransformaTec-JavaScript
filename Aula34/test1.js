@@ -1,16 +1,9 @@
-let = a
-let = b
-
-a = 40
-b = 30
-
-if(a > b){
-    console.log("A é maior que B")
-    if(a*b >100){
-        console.log("A multiplicação de A por B é maior que 100")
-    }
-}else if(b > a){
-    console.log("B é maior que A")
+if(idade <= 12){
+    console.log("Criança")
+}else if(idade > 12 && idade < 18){
+    console.log("Adolescente")
+}else if(idade >= 18 && idade < 65 ){
+    console.log("Adulto")
 }else{
-    console.log("A e B são iguais")
+    console.log("Idoso")
 }
